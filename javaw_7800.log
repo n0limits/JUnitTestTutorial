@@ -1,8 +1,0 @@
----
-JVMX version - Dec 28 2015 11:11:58 - 81_REL - optU - windows amd64 - 6 - bas2:260275 (mixed mode)
-Now: 2016-08-26 11:38:02, PID: 7800
-hostname: SOFN33987253A, current dir: C:\GIT\JUnitTestTutorial
----
-   :    [6716]  11:38:02 ***ERROR (:0): Java assert: "
-Expected: (a string containing "a" and a string containing "b")
-     but: a string containing "a" was "lbumen"" in org.hamcrest.MatcherAssert.assertThat(MatcherAssert.java:20)
